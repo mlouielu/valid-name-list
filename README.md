@@ -7,6 +7,25 @@ Make sure your website form validation and program pass these name.
 
 ![](http://i.imgur.com/TNqmby6.png)
 
+
+So why we need this ?
+---------------------
+
+A personal name isn't that easy with only one given name concat with one surname.
+
+Common componets of names include:
+
+* Personal name
+* Patronymic
+* Matronymic
+* Family name
+
+For example, Romanian name usually consists of a given name and a surname. But
+in offcial documents, surnames usually appear before given names. In Spanish naming,
+it consists of a given name followed by two family names. Eastern Slavic naming
+usually consists of a given name, patronymic and family name. In Taiwan, the family
+name will concat wiht given name, and usually with one (family name) and two (given name) words.
+
 Abbr.
 -----
 
